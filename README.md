@@ -13,4 +13,5 @@
 - follow this paper to reproduce the robust IBVS method for UAV landing on a static platform (based on the above IBVS program)
   	- [Robust Image-Based Landing Control of a Quadrotor on an Unpredictable Moving Vehicle Using Circle Features](https://ieeexplore.ieee.org/document/9791477)
 - learn YOLO and reproduce YOLO v5 to detect a symbol attached on a platform for UAV landing.
-  	- (YOLO tutorial)[https://github.com/yyccR/yolov5_in_tf2_keras]
+  	- (YOLO v5 official tutorial)[https://github.com/ultralytics/yolov5/wiki]
+	- (Train a specific model)[https://blog.csdn.net/oJiWuXuan/article/details/107558286]
