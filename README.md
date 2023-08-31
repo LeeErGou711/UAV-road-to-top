@@ -6,3 +6,7 @@
 	- [CSDN](https://blog.csdn.net/m0_47737058/article/details/115737719)
 -  follow the github package using the IBVS method for UAV landing in matlab
 	- [QuadcopterVisualServoing](https://github.com/BillyTziv/QuadcopterVisualServoing)
+
+## 8.31
+- follow this paper to reproduce the robust IBVS method for UAV landing on a static platform (based on the above IBVS program)
+  	- [Robust Image-Based Landing Control of a Quadrotor on an Unpredictable Moving Vehicle Using Circle Features](https://ieeexplore.ieee.org/document/9791477)
