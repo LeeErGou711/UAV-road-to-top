@@ -10,8 +10,14 @@
 	- [QuadcopterVisualServoing](https://github.com/BillyTziv/QuadcopterVisualServoing)
 
 ## 8.31
-- follow this paper to reproduce the robust IBVS method for UAV landing on a static platform (based on the above IBVS program)
+- start to  follow this paper to reproduce the robust IBVS method for UAV landing on a static platform (based on the above IBVS program)
   	- [Robust Image-Based Landing Control of a Quadrotor on an Unpredictable Moving Vehicle Using Circle Features](https://ieeexplore.ieee.org/document/9791477)
+  	- (read the source matlab code and try to understand the IBVS algorithm)
 - learn YOLO and reproduce YOLO v5 to detect a symbol attached on a platform for UAV landing.
   	- [YOLO v5 official tutorial](https://github.com/ultralytics/yolov5/wiki)
 	- [Train a specific model](https://blog.csdn.net/oJiWuXuan/article/details/107558286)
+ 	- [a useful tool for raw data processing](http://www.jinglingbiaozhu.com/)
+
+## 9.1 a strong typhoon is approaching SZ :cyclone: :cyclone: :cyclone:
+- collect photo data for the platform for UAV landing, and train the specific YOLO model
+- continue to reproduce the robust IBVS method
