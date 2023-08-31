@@ -18,6 +18,6 @@
 	- [Train a specific model](https://blog.csdn.net/oJiWuXuan/article/details/107558286)
  	- [a useful tool for raw data processing](http://www.jinglingbiaozhu.com/)
 
-## 9.1 a strong typhoon is approaching SZ :cyclone: :cyclone: :cyclone:
+## 9.1 (a strong typhoon is approaching SZ :cyclone: :cyclone: :cyclone:)
 - collect photo data for the platform for UAV landing, and train the specific YOLO model
 - continue to reproduce the robust IBVS method
