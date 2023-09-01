@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<doc>
+	<path>D:\application\Newfolder\dataset\data3.mp4</path>
+	<outputs>
+		<object>
+			<item>
+				<name>target</name>
+				<keyframes>
+					<keyframe>
+						<time>0.00</time>
+						<xmin>600</xmin>
+						<ymin>206</ymin>
+						<xmax>1348</xmax>
+						<ymax>885</ymax>
+					</keyframe>
+				</keyframes>
+			</item>
+		</object>
+	</outputs>
+	<time_labeled>1693541245848</time_labeled>
+	<labeled>true</labeled>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+</doc>

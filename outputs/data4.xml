@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<doc>
+	<path>D:\application\Newfolder\dataset\data4.mp4</path>
+	<outputs>
+		<object>
+			<item>
+				<name>target</name>
+				<keyframes>
+					<keyframe>
+						<time>0.44</time>
+						<xmin>361</xmin>
+						<ymin>6</ymin>
+						<xmax>1688</xmax>
+						<ymax>1032</ymax>
+					</keyframe>
+					<keyframe>
+						<time>1.82</time>
+						<xmin>419</xmin>
+						<ymin>43</ymin>
+						<xmax>1739</xmax>
+						<ymax>1062</ymax>
+					</keyframe>
+					<keyframe>
+						<time>2.41</time>
+						<xmin>417</xmin>
+						<ymin>6</ymin>
+						<xmax>1692</xmax>
+						<ymax>1058</ymax>
+					</keyframe>
+				</keyframes>
+			</item>
+		</object>
+	</outputs>
+	<time_labeled>1693541318523</time_labeled>
+	<labeled>true</labeled>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+</doc>
