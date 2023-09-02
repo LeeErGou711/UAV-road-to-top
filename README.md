@@ -19,5 +19,7 @@
  	- [a useful tool for raw data processing](http://www.jinglingbiaozhu.com/)
 
 ## 9.1 (a strong typhoon is approaching SZ :cyclone: :cyclone: :cyclone:)
-- collect photo data for the platform for UAV landing, and train the specific YOLO model
+- collect photo data for the platform for UAV landing, and train the specific YOLO model on Google [colab](https://colab.research.google.com/drive/1H7_7Eba218TUUjTCgBzzS8VF5w8B88k5#scrollTo=X75x6SqI0hmb)
 - continue to reproduce the robust IBVS method
+## 9.2
+- study the wiki of [Prometheus P450 autonomous tracking](https://github.com/amov-lab/prometheus_wiki/blob/main/doc/source/docs/p450/5-%E8%BF%9B%E9%98%B6%E5%8A%9F%E8%83%BD-%E5%AE%A4%E5%86%85%E8%87%AA%E4%B8%BB%E8%B7%9F%E8%B8%AA.rst) and use the above trained model to track the target landing platform
