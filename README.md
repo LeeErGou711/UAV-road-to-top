@@ -23,3 +23,7 @@
 - continue to reproduce the robust IBVS method
 ## 9.2
 - study the wiki of [Prometheus P450 autonomous tracking](https://github.com/amov-lab/prometheus_wiki/blob/main/doc/source/docs/p450/5-%E8%BF%9B%E9%98%B6%E5%8A%9F%E8%83%BD-%E5%AE%A4%E5%86%85%E8%87%AA%E4%B8%BB%E8%B7%9F%E8%B8%AA.rst) and use the above trained model to track the target landing platform
+
+## 9.4 (new semester starts today :kissing_closed_eyes::kissing_closed_eyes::kissing_closed_eyes:)
+- upload my trained model [here](https://github.com/LeeErGou711/yolov5/tree/master)
+- see the main.ipynb to run it.
