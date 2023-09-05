@@ -27,3 +27,7 @@
 ## 9.4 (new semester starts today :kissing_closed_eyes::kissing_closed_eyes::kissing_closed_eyes:)
 - upload my trained model [here](https://github.com/LeeErGou711/yolov5/tree/master)
 - see the main.ipynb to run it.
+
+## 9.5 
+- study VRX: try to control UAV in the simulation environment
+- 
