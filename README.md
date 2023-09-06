@@ -30,4 +30,17 @@
 
 ## 9.5 
 - study VRX: try to control UAV in the simulation environment
-- 
+- decide to re-build the environment after having a new PC.
+
+## 9.6 
+paper reading: 
+- [Autonomous ship deck landing of a quadrotor UAV using feed-forward
+image-based visual servoing](https://www.sciencedirect.com/science/article/pii/S1270963822005430?ref=pdf_download&fr=RR-2&rr=801fe6e5a8fbcf8b)
+	- this paper used IBVS for UAV landing
+ 	- a feed-forward IBVS was achieved by estimating the velocity of the landing platform (ship)
+  	- Kalman filter was introduced for tracking the landing platform
+  	- GPS and camera on the UAV werer equipped to guaranteed that the entire landing procedure was fully autonomous.
+  	- a specially designed landing markers was proposed to guarantee that the UAV can land from a high attitude
+  	- this paper achieved landing on a moving platform with speed 5m/s for the vision-based autonomous landing of a quadrotor UAV
+  	- techniques the paper used: conventional IBVS, IBVS with virtual image plane, adaptive-gain IBVS, square compensation, feed-forward IBVS, Kalman filter. (links for a breif introduction to every technique)
+
