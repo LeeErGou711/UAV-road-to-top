@@ -6,7 +6,7 @@ $$ v_{d,ff} = v_{d,4DOF}+\hat{v}_{target} $$
 
 where 
 
-$$\hat{v}_{target} = \begin{bmatrix} \hat{v}_{target,x} \\ \hat{v}_{target,y} \\ 0 \\ 0 \end{bmatrix}^\top $$
-
+$$ \hat{v}_{target} = \begin{bmatrix} \hat{v}_{target,x} & \hat{v}_{target,y} & 0 & 0 \end{bmatrix}^\top $$
 
 is the estimated horizontal velocity of the ship.
+
