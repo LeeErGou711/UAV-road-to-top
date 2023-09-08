@@ -52,7 +52,7 @@ image-based visual servoing](https://www.sciencedirect.com/science/article/pii/S
 - [feedforward IBVS](https://github.com/LeeErGou711/UAV-road-to-top/blob/main/techniques/feed-forward%20IBVS.md)
 - [IBVS with virtual iamge plane](https://github.com/LeeErGou711/UAV-road-to-top/blob/main/techniques/IBVS_for_under-actuated_system.md)
 - [adaptive-gain IBVS](https://github.com/LeeErGou711/UAV-road-to-top/blob/main/techniques/adaptive-gain%20IBVS.md)
-- [Square compensation for landing pad oscillation]()
+- [Square compensation for landing pad oscillation](https://github.com/LeeErGou711/UAV-road-to-top/blob/main/techniques/Square%20compensation.md)
 
 ## 9.8 
 paper reading:
