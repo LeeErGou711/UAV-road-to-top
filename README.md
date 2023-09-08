@@ -40,7 +40,24 @@ image-based visual servoing](https://www.sciencedirect.com/science/article/pii/S
  	- a feed-forward IBVS was achieved by estimating the velocity of the landing platform (ship)
   	- Kalman filter was introduced for tracking the landing platform
   	- GPS and camera on the UAV werer equipped to guaranteed that the entire landing procedure was fully autonomous.
+  	- Square compensation for landing pad oscillation
   	- a specially designed landing markers was proposed to guarantee that the UAV can land from a high attitude
   	- this paper achieved landing on a moving platform with speed 5m/s for the vision-based autonomous landing of a quadrotor UAV
   	- techniques the paper used: conventional IBVS, IBVS with virtual image plane, adaptive-gain IBVS, square compensation, feed-forward IBVS, Kalman filter. (links for a breif introduction to every technique)
 
+## 9.7
+summarize techniques used in the paper [Autonomous ship deck landing of a quadrotor UAV using feed-forward
+image-based visual servoing](https://www.sciencedirect.com/science/article/pii/S1270963822005430?ref=pdf_download&fr=RR-2&rr=801fe6e5a8fbcf8b), inclued:
+- [conventional IBVS](https://github.com/LeeErGou711/UAV-road-to-top/blob/main/techniques/conventional_IBVS.md)
+- [feedforward IBVS](https://github.com/LeeErGou711/UAV-road-to-top/blob/main/techniques/feed-forward%20IBVS.md)
+- [IBVS with virtual iamge plane](https://github.com/LeeErGou711/UAV-road-to-top/blob/main/techniques/IBVS_for_under-actuated_system.md)
+- [adaptive-gain IBVS](https://github.com/LeeErGou711/UAV-road-to-top/blob/main/techniques/adaptive-gain%20IBVS.md)
+- [Square compensation for landing pad oscillation]()
+
+## 9.8 
+paper reading:
+- [Toward visibility guaranteed visual servoing control of quadrotor UAVs](https://ieeexplore.ieee.org/document/8671723)
+	- this paper focuses on the visibility problem of ensuring thevisual target stay inside inside the FoV of the camera on the UAV.
+   	- control barrier functions are used to derive the visibility constraint and based on the visibility constraint, the visual target will stay within the FoV
+   	- a quadratic programming is used to get the best output under the visibility constraint
+  	- a non-conservative control barrier functions called Zeroing Barriers Function (ZBF) is used to define the visibility constraint. Here "conservative" means ?
