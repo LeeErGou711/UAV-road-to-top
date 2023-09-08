@@ -61,3 +61,4 @@ paper reading:
    	- control barrier functions are used to derive the visibility constraint and based on the visibility constraint, the visual target will stay within the FoV
    	- a quadratic programming is used to get the best output under the visibility constraint
   	- a non-conservative control barrier functions called Zeroing Barriers Function (ZBF) is used to define the visibility constraint. Here "conservative" means ?
+	- techniques the paper used: control barrier function, zeroing barriers function, quadratic programming, 
