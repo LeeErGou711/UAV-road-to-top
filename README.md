@@ -65,7 +65,7 @@ paper reading:
 
 ## 9.10
 summarize techniques used in the paper [Toward visibility guaranteed visual servoing control of quadrotor UAVs](https://ieeexplore.ieee.org/document/8671723)
-	- [control barrier function]()
- 	- [zeroing barriers function]()
-  	- [quadratic programming]()
+- [control barrier function]()
+- [zeroing barriers function]()
+- [quadratic programming]()
 
