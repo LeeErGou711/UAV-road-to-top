@@ -70,10 +70,11 @@ summarize techniques used in the paper [Toward visibility guaranteed visual serv
 - [quadratic programming]()
 
 ## 9.11
-- continue the work in 9.10
+- continue the work on 9.10
 - collect a batch of repositories related to CBF and CLF
   	- [CBF-CLF-Helper](https://github.com/HybridRobotics/CBF-CLF-Helper)
   	- [neural_clbf](https://github.com/MIT-REALM/neural_clbf)
   	- [mpc-cbf(runned by python; with many demos)](https://github.com/elena-ecn/mpc-cbf)
+  
 paper reading:
 - [Safety-Critical Model Predictive Control with Discrete-Time Control Barrier Function](https://ieeexplore.ieee.org/document/9483029)
