@@ -66,7 +66,7 @@ paper reading:
 ## 9.10
 summarize techniques used in the paper [Toward visibility guaranteed visual servoing control of quadrotor UAVs](https://ieeexplore.ieee.org/document/8671723)
 - [control lyapunov function](https://github.com/LeeErGou711/UAV-road-to-top/blob/main/techniques/control%20lyapunov%20function.pdf)
-- [control barrier function]()
+- [control barrier function](https://github.com/LeeErGou711/UAV-road-to-top/blob/main/techniques/control%20barrier%20function.pdf)
 - [zeroing barriers function]()
 - [quadratic programming]()
 
