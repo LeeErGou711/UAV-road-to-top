@@ -72,6 +72,7 @@ summarize techniques used in the paper [Toward visibility guaranteed visual serv
 
 ## 9.11
 - continue the work on 9.10
+- reinforcement learning may be a way for UAV landing, I found [this repository](https://github.com/harvard-edge/airlearning-ue4) which can train rl model in UE4
 - collect a batch of repositories related to CBF and CLF
   	- [CBF-CLF-Helper](https://github.com/HybridRobotics/CBF-CLF-Helper)
   	- [neural_clbf](https://github.com/MIT-REALM/neural_clbf)
