@@ -50,7 +50,7 @@ summarize techniques used in the paper [Autonomous ship deck landing of a quadro
 image-based visual servoing](https://www.sciencedirect.com/science/article/pii/S1270963822005430?ref=pdf_download&fr=RR-2&rr=801fe6e5a8fbcf8b), inclued:
 - [conventional IBVS](https://github.com/LeeErGou711/UAV-road-to-top/blob/main/techniques/conventional_IBVS.md)
 - [feedforward IBVS](https://github.com/LeeErGou711/UAV-road-to-top/blob/main/techniques/feed-forward%20IBVS.md)
-- [IBVS with virtual iamge plane](https://github.com/LeeErGou711/UAV-road-to-top/blob/main/techniques/IBVS_for_under-actuated_system.md)
+- [IBVS with virtual image plane](https://github.com/LeeErGou711/UAV-road-to-top/blob/main/techniques/IBVS_for_under-actuated_system.md)
 - [adaptive-gain IBVS](https://github.com/LeeErGou711/UAV-road-to-top/blob/main/techniques/adaptive-gain%20IBVS.md)
 - [Square compensation for landing pad oscillation](https://github.com/LeeErGou711/UAV-road-to-top/blob/main/techniques/Square%20compensation.md)
 
@@ -82,3 +82,6 @@ summarize techniques used in the paper [Toward visibility guaranteed visual serv
   
 paper reading:
 - [Safety-Critical Model Predictive Control with Discrete-Time Control Barrier Function](https://ieeexplore.ieee.org/document/9483029)
+
+## 9.13
+
