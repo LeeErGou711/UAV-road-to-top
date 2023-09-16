@@ -83,5 +83,6 @@ summarize techniques used in the paper [Toward visibility guaranteed visual serv
 paper reading:
 - [Safety-Critical Model Predictive Control with Discrete-Time Control Barrier Function](https://ieeexplore.ieee.org/document/9483029)
 
-## 9.13
+## 9.16
+continue building the simulation 
 
