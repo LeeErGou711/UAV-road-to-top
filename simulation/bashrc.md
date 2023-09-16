@@ -31,8 +31,8 @@ export GAZEBO_MODEL_PATH=$GAZEBO_MODEL_PATH:/home/ergou/catkin_ws/src/Prometheus
 
 if the system cannot find px4 or fail to launch the pakcage, input the following code and then roslaunch:
 
+source /home/ergou/catkin_al/devel/setup.bash  
+
 export ROS_PACKAGE_PATH=$ROS_PACKAGE_PATH:/home/ergou/catkin_ws/src/prometheus_px4
 
 export ROS_PACKAGE_PATH=$ROS_PACKAGE_PATH:/home/ergou/catkin_ws/src/prometheus_px4/Tools/sitl_gazebo
-
-source /home/ergou/catkin_al/devel/setup.bash  
