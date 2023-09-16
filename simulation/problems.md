@@ -7,4 +7,4 @@
 ### [build prometheus and prometheus_px4 for ubuntu 18.04 with melodic (also suitable for 20.04 & noetic)](https://blog.csdn.net/gwplovekimi/article/details/115395686)
 ### [stick at "MAVROS started. MY ID 1.240, TARGET ID 1.1"(not solved)]()
 ### fail to compile "Prometheus": first apply the "compile_gazebo.sh", then "compile_all.sh"
-###[build vrx for ubuntu 20.04 (suitable for ubuntu 18.04)](https://github.com/osrf/vrx/wiki/vrx_classic_host_install_tutorial)
+### [build vrx for ubuntu 20.04 (suitable for ubuntu 18.04)](https://github.com/osrf/vrx/wiki/vrx_classic_host_install_tutorial)
