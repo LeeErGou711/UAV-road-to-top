@@ -85,4 +85,5 @@ paper reading:
 
 ## 9.16
 continue building the simulation 
+i summarize the problems and their solutions in this [file](https://github.com/LeeErGou711/UAV-road-to-top/blob/main/simulation/problems.md) you may check it if you are stuck in one step in the procedure.
 
