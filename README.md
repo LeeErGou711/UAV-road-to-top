@@ -94,6 +94,6 @@ paper reading:
 - idea: LQR for UAV safe landing
   	- [Automatic-Landing-Drone-LQR](https://github.com/NishanthARao/Automatic-Landing-Drone-LQR)
 - summarize techniques used in this paper [Safety-Critical Model Predictive Control with Discrete-Time Control Barrier Function](https://ieeexplore.ieee.org/document/9483029)
-	- [MPC-DC (MPC-distance constraints)]()
+	- [MPC-DC (MPC-distance constraints)](https://github.com/LeeErGou711/UAV-road-to-top/blob/main/techniques/MPC.pdf)
    	- [MPC-CBF]()
    	- [DCLF-DCBF (discrete-time CLF and discrete-time CBF)]()
