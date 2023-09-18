@@ -87,3 +87,13 @@ paper reading:
 - continue building the simulation 
 - i summarize the problems and their solutions in this [file](https://github.com/LeeErGou711/UAV-road-to-top/blob/main/simulation/problems.md) you may check it if you are stuck in one step in the procedure.
 
+## 9.17
+- find a [tutorial](https://www.bilibili.com/video/BV1KE41157uT/?spm_id_from=333.1007.top_right_bar_window_default_collection.content.click&vd_source=85f78634ae6a4437016f20e28a7f87c4) to build another simulation
+- idea: Kalman filer for tracking the moving platform
+  	- resources: [kalman-filter-in-single-object-tracking](https://github.com/liuchangji/kalman-filter-in-single-object-tracking)
+- idea: LQR for UAV safe landing
+  	- [Automatic-Landing-Drone-LQR](https://github.com/NishanthARao/Automatic-Landing-Drone-LQR)
+- summarize techniques used in this paper [Safety-Critical Model Predictive Control with Discrete-Time Control Barrier Function](https://ieeexplore.ieee.org/document/9483029)
+	- [MPC-DC (MPC-distance constraints)]()
+   	- [MPC-CBF]()
+   	- [DCLF-DCBF (discrete-time CLF and discrete-time CBF)]()
