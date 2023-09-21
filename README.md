@@ -97,3 +97,9 @@ paper reading:
 	- [MPC-DC (MPC-distance constraints)](https://github.com/LeeErGou711/UAV-road-to-top/blob/main/techniques/MPC.pdf)
    	- [MPC-CBF]()
    	- [DCLF-DCBF (discrete-time CLF and discrete-time CBF)]()
+ 
+## 9.20
+- i find a good [video guide](https://www.bilibili.com/video/BV16N4y1d7Ki/?spm_id_from=333.788.top_right_bar_window_custom_collection.content.click&vd_source=85f78634ae6a4437016f20e28a7f87c4) for control model in gazebo using matlab and i successfully reproduce it. next i decide to learn simulink and build my controller in simulink and test it in gazebo. 
+- for the details of the controller of landing, the idea is to combine CBF and IBVS, maybe kalman filter will also be used.
+- fist i plan to build the controller only using IBVS in simulink and test its behaviour;
+- then i will add a suitable CBF to the controller, hopping the CBF will improve the behavior.
